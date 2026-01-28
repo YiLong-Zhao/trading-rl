@@ -1,0 +1,7 @@
+data_file: D:\nuotian\PythonProject1\data\605069_1m_sh_clean.csv
+rows: 1951
+sample_range: 2025-10-01 09:49:00 -> 2025-10-13 10:03:00
+sma_short: 5, sma_long: 20
+final_equity: 0.913523
+total_return: -0.086477
+max_drawdown: -0.144351
